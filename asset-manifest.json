@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/getcookie/static/css/main.e6c13ad2.css",
+    "main.js": "/getcookie/static/js/main.6394e4c5.js",
+    "static/js/453.f6505ab9.chunk.js": "/getcookie/static/js/453.f6505ab9.chunk.js",
+    "index.html": "/getcookie/index.html",
+    "main.e6c13ad2.css.map": "/getcookie/static/css/main.e6c13ad2.css.map",
+    "main.6394e4c5.js.map": "/getcookie/static/js/main.6394e4c5.js.map",
+    "453.f6505ab9.chunk.js.map": "/getcookie/static/js/453.f6505ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6394e4c5.js"
+  ]
+}
